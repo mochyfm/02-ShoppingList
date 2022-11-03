@@ -35,6 +35,7 @@ const styles = StyleSheet.create({
     productName: {
         fontSize: 18,
         textAlign: 'center',
+        marginRight: 10,
         alignContent: 'center'
     }
 });
